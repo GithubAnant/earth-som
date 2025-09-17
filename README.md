@@ -8,8 +8,8 @@ To work with this repository:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/GithubAnant/earth-patch-notes.git
-   cd earth-patch-notes
+   git clone https://github.com/GithubAnant/earth-som.git
+   cd earth-som
    ```
 
 2. **Install dependencies**
